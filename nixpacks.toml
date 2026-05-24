@@ -1,0 +1,5 @@
+[phases.build]
+cmds = ["pip install requests pytz"]
+
+[start]
+cmd = "python xauzone_bot.py"
