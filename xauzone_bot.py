@@ -10,7 +10,7 @@ import os
 from datetime import datetime
 import pytz
 
-BOT_TOKEN   = "8901088980:AAH_0UoolFjUfj3Gv0opwbMxzqpe5Ia9H6A"
+BOT_TOKEN   = "8901088980:AAH_OUoolFjUfj3Gv0opwbMxzqpe5Ia9H6A"
 CHAT_ID     = "6538381591"
 EAT         = pytz.timezone("Africa/Nairobi")
 CHECK_EVERY = 180
