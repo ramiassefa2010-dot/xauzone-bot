@@ -1,1 +1,1 @@
-worker: python "xauzone_bot (1).py"
+worker: python xauzone_bot.py
